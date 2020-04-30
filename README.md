@@ -22,4 +22,4 @@ This is a quiz app that tests your general knowledge. As one of the most popular
 - How to use Dart lists.
 - The difference between var, const and final.
 ## Screenshots
-<img src="screenshots/Screenshot_1588271164.png" height="600" width="300">
+<img src="screenshots/Screenshot_1588271164.png" height="600" width="300"> <img src="screenshots/Screenshot_1588271171.png" height="600" width="300">
